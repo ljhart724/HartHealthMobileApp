@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+.DS_Store
+.idea/
+Library/
+ios/Pods/
+android/.gradle/
+android/app/build/
+.Trash/
